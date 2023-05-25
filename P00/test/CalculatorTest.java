@@ -71,7 +71,7 @@ public class CalculatorTest {
 		// fail("Not yet implemented");
 		int a = 2500;
 		int b = 50;
-
+		
 		Calculator cal = new Calculator();
 		int actual = cal.divide(a, b);
 
